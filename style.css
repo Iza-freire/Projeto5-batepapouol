@@ -64,3 +64,12 @@ button:active {
     font-style: italic;
     color: #606060;
 }
+.text-box input::placeholder {
+    font-family: "Roboto", sans-serif;
+    color: #000000;
+  }
+.text-last {
+    font-weight: 300;
+    font-size: 14px;
+    color: #505050;
+}
