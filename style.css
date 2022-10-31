@@ -73,3 +73,14 @@ button:active {
     font-size: 14px;
     color: #505050;
 }
+.entrada-saida {
+    background-color: #dcdcdc;
+}
+.mensagens-privadas {
+    background-color: #ffdede;
+    margin-top: 5px;
+}
+.mensagens-publicas {
+    background-color: #ffffff;
+    margin-top: 5px;
+}
